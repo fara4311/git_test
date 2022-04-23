@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 lets go for a walk
 shall we go on a hike
+=======
+
+>>>>>>> 3229e602deccb8a6f6ab181794392b2202008d6f
